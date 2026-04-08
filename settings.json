@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "2012SERVER-ppiB.aternos.me",
+    "ip": "2012SERVER-ppiB.aternos.me:54990",
     "port": 54990,
     "version": "",
     "try-creative": false
